@@ -1,0 +1,32 @@
+main{
+    width: 60%;
+    height: 500px;
+    border: solid 2px black;
+    border-radius: 10px;
+    margin:auto;
+    margin-top: 50px;
+}
+
+#modoAparencia{
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#calc{
+    width: 35%;
+    height: 400px;
+    background-color:rgb(132, 132, 241);
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+#tela{
+    width: 85%;
+    height: 40px;
+    background-color: gray;
+    margin: auto;
+    border-radius: 10px;
+}
